@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit
+spotipy
+spacy
+nltk
+python-dotenv
+rapidfuzz
+requests
+sentence-transformers
